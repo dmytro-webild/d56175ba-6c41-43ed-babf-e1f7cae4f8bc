@@ -52,13 +52,13 @@ export default function LandingPage() {
           testimonials={[
             {
               name: "Pavlína Č.",              handle: "Stamgast",              testimonial: "Krásné prostředí a výborná káva. Rozhodně doporučuji.",              rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/smiley-businesswoman-using-sign-language-outdoors-work_23-2148740316.jpg",              imageAlt: "Pavlína Č."},
+              imageSrc: "http://img.b2bpic.net/free-photo/smiley-businesswoman-using-sign-language-outdoors-work_23-2148740316.jpg?_wi=1",              imageAlt: "Pavlína Č."},
             {
               name: "Lucie V.",              handle: "Návštěvnice",              testimonial: "Úžasné jídlo, steak mix – úžasná kombinace chutí a velká porce. Celkově úžasná večeře.",              rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/shot-beautiful-young-businesswoman-wearing-blue-chiffon-shirt-while-standing-posing-gray-marble-wall_158595-6763.jpg",              imageAlt: "Lucie V."},
+              imageSrc: "http://img.b2bpic.net/free-photo/shot-beautiful-young-businesswoman-wearing-blue-chiffon-shirt-while-standing-posing-gray-marble-wall_158595-6763.jpg?_wi=1",              imageAlt: "Lucie V."},
             {
               name: "Marek S.",              handle: "Podnikatel",              testimonial: "Příjemné místo, milá obsluha, dobré pití a jídlo. Bonusem je parkování ve dvoře.",              rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/close-up-confident-businessman-portrait_158595-2939.jpg",              imageAlt: "Marek S."},
+              imageSrc: "http://img.b2bpic.net/free-photo/close-up-confident-businessman-portrait_158595-2939.jpg?_wi=1",              imageAlt: "Marek S."},
           ]}
           buttons={[
             { text: "Objednat si", href: "#menu" },
@@ -127,11 +127,11 @@ export default function LandingPage() {
           tagIcon={Heart}
           testimonials={[
             {
-              id: "1",              name: "Pavlína Č.",              handle: "Místní podnikatelka",              testimonial: "Krásné prostředí a výborná káva. Rozhodně doporučuji. Je to má nová oblíbená zastávka na cestě do práce!",              imageSrc: "http://img.b2bpic.net/free-photo/smiley-businesswoman-using-sign-language-outdoors-work_23-2148740316.jpg",              imageAlt: "Pavlína Č."},
+              id: "1",              name: "Pavlína Č.",              handle: "Místní podnikatelka",              testimonial: "Krásné prostředí a výborná káva. Rozhodně doporučuji. Je to má nová oblíbená zastávka na cestě do práce!",              imageSrc: "http://img.b2bpic.net/free-photo/smiley-businesswoman-using-sign-language-outdoors-work_23-2148740316.jpg?_wi=2",              imageAlt: "Pavlína Č."},
             {
-              id: "2",              name: "Lucie V.",              handle: "Návštěvnice z Příbrami",              testimonial: "Úžasné jídlo, steak mix – úžasná kombinace chutí a velká porce. Celkově úžasná večeře. Vrátím se určitě!",              imageSrc: "http://img.b2bpic.net/free-photo/shot-beautiful-young-businesswoman-wearing-blue-chiffon-shirt-while-standing-posing-gray-marble-wall_158595-6763.jpg",              imageAlt: "Lucie V."},
+              id: "2",              name: "Lucie V.",              handle: "Návštěvnice z Příbrami",              testimonial: "Úžasné jídlo, steak mix – úžasná kombinace chutí a velká porce. Celkově úžasná večeře. Vrátím se určitě!",              imageSrc: "http://img.b2bpic.net/free-photo/shot-beautiful-young-businesswoman-wearing-blue-chiffon-shirt-while-standing-posing-gray-marble-wall_158595-6763.jpg?_wi=2",              imageAlt: "Lucie V."},
             {
-              id: "3",              name: "Marek S.",              handle: "Cestovatel",              testimonial: "Příjemné místo, milá obsluha, dobré pití a jídlo. Bonusem je parkování ve dvoře. Skvělý poměr ceny a kvality.",              imageSrc: "http://img.b2bpic.net/free-photo/close-up-confident-businessman-portrait_158595-2939.jpg",              imageAlt: "Marek S."},
+              id: "3",              name: "Marek S.",              handle: "Cestovatel",              testimonial: "Příjemné místo, milá obsluha, dobré pití a jídlo. Bonusem je parkování ve dvoře. Skvělý poměr ceny a kvality.",              imageSrc: "http://img.b2bpic.net/free-photo/close-up-confident-businessman-portrait_158595-2939.jpg?_wi=2",              imageAlt: "Marek S."},
             {
               id: "4",              name: "Jana K.",              handle: "Milovnice dobrého jídla",              testimonial: "Pohodová kavárnička se vším dobrým, co se vyžaduje. Milé posezení u výborné kávy a domácí limonády.",              imageSrc: "http://img.b2bpic.net/free-photo/smiley-woman-bench_23-2148574708.jpg",              imageAlt: "Jana K."},
             {
